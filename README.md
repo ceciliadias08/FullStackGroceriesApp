@@ -6,3 +6,4 @@ This project entails building a simple yet functional grocery shopping app, util
 
 Due Oct. 29th, 2024 @ 11:59 p.m.
 "# GroceryAppFullStack" 
+"# GroceryAppFullStack" 
